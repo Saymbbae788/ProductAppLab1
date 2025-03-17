@@ -17,4 +17,10 @@ class Product
     {
         Console.WriteLine($"Товар: {Name}, Количество: {Quantity}, Стоимость: {Price} руб.");
     }
+    public Product()
+    {
+        Name = "Неизвестный";
+        Quantity = 0;
+        Price = 0.0f;
+    }
 }

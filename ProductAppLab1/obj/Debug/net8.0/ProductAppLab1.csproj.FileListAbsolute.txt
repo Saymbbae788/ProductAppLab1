@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\bin\Debug\net8.0\ProductAppLab1.exe
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\bin\Debug\net8.0\ProductAppLab1.deps.json
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\bin\Debug\net8.0\ProductAppLab1.runtimeconfig.json
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\bin\Debug\net8.0\ProductAppLab1.dll
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\bin\Debug\net8.0\ProductAppLab1.pdb
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.AssemblyInfo.cs
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.sourcelink.json
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.dll
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\refint\ProductAppLab1.dll
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.pdb
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ProductAppLab1.genruntimeconfig.cache
+C:\Users\User\source\repos\ProductAppLab1\ProductAppLab1\obj\Debug\net8.0\ref\ProductAppLab1.dll
